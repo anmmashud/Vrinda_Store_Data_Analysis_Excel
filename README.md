@@ -50,15 +50,12 @@ As per the requirement for the second sample question, I added a new column to e
 
 ### Data Analysis:
 
-*(Add the analysis steps and techniques you used here, such as charts, pivot tables, calculations, etc.)*
 
 ### Creating Dashboard:
 
-*(Describe the process of creating the dashboard here, such as tools used, type of dashboard, and key visualizations.)*
 
 ### Insights:
 
-*(Provide a summary of the key findings from your analysis. What trends did you observe? What recommendations would you make based on the data?)*
  
  
  
@@ -81,12 +78,5 @@ As per the requirement for the second sample question, I added a new column to e
 
 #### Project Course:
 - [**Project Course on YouTube**](https://www.youtube.com/watch?v=gTK5rNhWJyA) – A detailed course that helped guide the project development and data analysis process.
-
----
-
-### Key Improvements:
-1. **Headings**: Using clear headings like **Special Thanks**, **Useful Links**, and **Project Course** helps the reader quickly identify each section.
-2. **Bullet Points**: Breaking up the links and information into individual bullet points enhances readability and structure.
-3. **Descriptions**: A brief description of each link or resource gives context to the reader about why each resource is valuable.
 
 ---
