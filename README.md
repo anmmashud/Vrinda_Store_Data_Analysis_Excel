@@ -1,5 +1,7 @@
 # 🌐 Vrinda Store Data Analysis: Excel Project
 
+/images/vrinda_store_dashboard_thumbnail.png
+
 ## 🔄 Introduction:
 This project involves analyzing sales data for **Vrinda Store** from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
 
@@ -40,6 +42,9 @@ Here are some questions to guide the analysis: ✨✨✨
 3. **🏛️ Standardizing gender entries:**
    The gender column had inconsistent entries (Men, M, W, Women). These were standardized into two categories: **Men** and **Women**. ✨✨✨
 
+/images/old_data.jpg
+/images/new_data.jpg
+
 ### ⚙️ Data Processing:
 To address trends over time, a new column was added to extract the 🔢 month from the Date column. ✨✨✨
 
@@ -64,12 +69,16 @@ The dashboard includes: ✨✨✨
   - 🌐 Channel  
   - 🔢 Age Group
 
+/images/dashboard.jpg
+
 ### 🔦 Insights:
 Key findings from the analysis include:
 1. ♀️ **Women** made up about 65% of total purchases.
 2. 🌎 The top states for sales were **Maharashtra**, **Karnataka**, and **Uttar Pradesh**.
 3. ⏳ Adults aged **20-40 years** contributed to ~50% of orders.
 4. 🌐 **Amazon**, **Flipkart**, and **Myntra** were the top-performing sales channels, accounting for ~80% of revenue.
+
+/images/insights.jpg
 
 ### ✅ Recommendations:
 To boost sales in 2023: ✨✨✨
