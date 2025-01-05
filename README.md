@@ -1,6 +1,9 @@
 # 🌐 Vrinda Store Data Analysis: Excel Project
 
-/images/vrinda_store_dashboard_thumbnail.png
+<div align="center">
+  <h3>Final Result</h3>
+  <img src="images/vrinda_store_dashboard_thumbnail.png" alt="Old Data" width="600">
+</div>
 
 ## 🔄 Introduction:
 This project involves analyzing sales data for **Vrinda Store** from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
@@ -19,10 +22,10 @@ The goal is to generate an annual 📊 report that highlights performance metric
 8. 🌐 Next Steps
 
 ### 📚 Collecting Data:
-The dataset was provided in the file **"Vrinda_Store_original.xlsx"**. ✨✨✨
+The dataset was provided in the file **"Vrinda_Store_original.xlsx"**.
 
 ### ❓ Sample Questions:
-Here are some questions to guide the analysis: ✨✨✨
+Here are some questions to guide the analysis:
 1. 📈 How do sales compare to orders in a single chart?  
 2. 🌄 Which month had the highest 📈 sales and orders?  
 3. 💃 Did men or women purchase more in 2022?  
@@ -34,25 +37,35 @@ Here are some questions to guide the analysis: ✨✨✨
 
 ### 🧰 Data Cleaning:
 1. **🔢 Transforming the data into a table:**
-   The data was turned into a table to enable filters and make it easier to analyze. (You can also activate filters using **Alt + D + F**, but tables are more reliable.) ✨✨✨
+   The data was turned into a table to enable filters and make it easier to analyze. (You can also activate filters using **Alt + D + F**, but tables are more reliable.)
 
 2. **🧠 Checking for anomalies:**
-   I checked for blank or null cells. Luckily, none were found. If there were any, they would have been ❇ excluded using the filter options. ✨✨✨
+   I checked for blank or null cells. Luckily, none were found. If there were any, they would have been ❇ excluded using the filter options.
 
 3. **🏛️ Standardizing gender entries:**
-   The gender column had inconsistent entries (Men, M, W, Women). These were standardized into two categories: **Men** and **Women**. ✨✨✨
+   The gender column had inconsistent entries (Men, M, W, Women). These were standardized into two categories: **Men** and **Women**.
 
-/images/old_data.jpg
-/images/new_data.jpg
+<div align="center">
+  <h3>Old Data</h3>
+  <img src="images/old_data.jpg" alt="Old Data" width="600">
+</div>
+
+<!-- Adds a line break for spacing by </br> -->
+
+<div align="center">
+  <h3>New Data</h3>
+  <img src="images/new_data.jpg" alt="New Data" width="600">
+</div>
+
 
 ### ⚙️ Data Processing:
-To address trends over time, a new column was added to extract the 🔢 month from the Date column. ✨✨✨
+To address trends over time, a new column was added to extract the 🔢 month from the Date column.
 
 ### 🔝 Data Analysis:
 Analysis steps include the use of 📈 charts, pivot tables, and calculations to answer the questions and uncover trends. ✨✨✨
 
 ### 🎨 Creating Dashboard:
-The dashboard includes: ✨✨✨
+The dashboard includes:
 - **📈 Bar Charts:**
   - Orders vs. Sales  
   - Top 10 States by Sales  
@@ -69,7 +82,11 @@ The dashboard includes: ✨✨✨
   - 🌐 Channel  
   - 🔢 Age Group
 
-/images/dashboard.jpg
+<div align="center">
+  <h3>Dashboard</h3>
+  <img src="images/dashboard.jpg" alt="New Data" width="600">
+</div>
+
 
 ### 🔦 Insights:
 Key findings from the analysis include:
@@ -78,12 +95,20 @@ Key findings from the analysis include:
 3. ⏳ Adults aged **20-40 years** contributed to ~50% of orders.
 4. 🌐 **Amazon**, **Flipkart**, and **Myntra** were the top-performing sales channels, accounting for ~80% of revenue.
 
-/images/insights.jpg
-
 ### ✅ Recommendations:
-To boost sales in 2023: ✨✨✨
+To boost sales in 2023:
 - Focus on ♀️ **women** aged **20-40** in 🌎 **Maharashtra**, **Karnataka**, and **Uttar Pradesh**.
 - Use 📲 targeted ads, 🎉 promotions, and 🎁 coupons on channels like **Amazon**, **Flipkart**, and **Myntra**.
+
+<div align="center">
+  <h3>Insights</h3>
+  <img src="images/insights.jpg" alt="New Data" width="600">
+</div>
+
+## 📥 Downloads:
+
+- 📂 [Download](https://github.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store.xlsx) dashboard in Excel file.
+- 📂 [Download](https://github.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/Vrinda_Store_oriiginal.xlsx) raw dataset in Excel file to practice.
 
 ---
 
@@ -92,7 +117,7 @@ To boost sales in 2023: ✨✨✨
 - **Rishab Mishra** for his guidance 🤝 and for providing valuable resources. ✨
 
 #### 🔗 Useful Links:
-- [**GitHub**](https://github.com/rishabmishra) – Explore related projects and 🔎 resources. ✨✨✨
+- [**GitHub**](https://github.com/rishabmishra) – Explore related projects and 🔎 resources.
 - [**YouTube Channel**](https://www.youtube.com/@RishabMishraOfficial) – Tutorials 🔄 and additional learning materials by Rishab Mishra. ✨✨✨
 
 #### 🎥 Project Course:
